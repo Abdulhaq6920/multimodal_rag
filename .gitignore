@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Images extracted during ingestion
+data/images/
+
+# Uploaded PDFs (optional)
+data/uploads/
+
+# Local database
+*.db
+*.sqlite
