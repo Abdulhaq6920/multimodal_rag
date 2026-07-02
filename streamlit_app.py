@@ -242,7 +242,7 @@ with st.sidebar:
 # CHAT UI
 # =====================================================
 
-st.title("💬 Multimodal RAG Chat")
+st.title("💬 Multimodal RAG Chatbot")
 
 st.caption(
     "Ask questions about your uploaded PDF documents."
